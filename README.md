@@ -7,14 +7,14 @@ Dwi Enggar Purbowati, XII RPL 1 / 14
 
 ### **Screenshoot**
 ![Screenshoot 1] (/modul11-03a.jpg)
-######<p align="center"> -- Search -- </p>
+######<p align="center"> -- Add + Edit -- </p>
 <br>
 <br>
 <br>
 ![Screenshoot 1] (/modul11-03b.jpg)
-######<p align="center"> -- Delete -- </p>
+######<p align="center"> -- Search -- </p>
 <br>
 <br>
 <br>
 ![Screenshoot 1] (/modul11-03c.jpg)
-######<p align="center"> -- Edit -- </p>
+######<p align="center"> -- Delete -- </p>
